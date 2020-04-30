@@ -1,3 +1,7 @@
+Miranda Garcia Yazbeth Alexandra
+Laurent-Edouard Yemalin Vlavonou
+Gabriel Elias Cajero Salazar
+
 1.- Organizarse en equipos de entre 5 y 7 alumnos.
 2.- Uno y sólo un miembro del equipo creará el repositorio github y fungirá como dueño del repositorio.
 3.- Se debe crear el archivo README.md del repositorio que debe contener como mínimo la lista de integrantes.
